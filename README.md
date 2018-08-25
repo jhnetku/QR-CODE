@@ -10,5 +10,5 @@
 2. Tambahkan script berikut di MikroTik via terminal.
 ```
 /ip hotspot walled-garden ip
-add action=accept comment="JHNET QR Code Scanner" disabled=no dst-host=hotspotms.github.io
+add action=accept comment="JHNET QR Code Scanner" disabled=no dst-host=jhnetku.github.io
 ```
